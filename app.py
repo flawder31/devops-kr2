@@ -1,3 +1,4 @@
+# KR2: Bolotskikh
 import os
 import socket
 
